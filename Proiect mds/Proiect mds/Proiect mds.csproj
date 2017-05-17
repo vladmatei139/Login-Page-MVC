@@ -102,11 +102,7 @@
     </Content>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Content\dropdown.css" />
     <Content Include="Content\Site.css" />
-    <Content Include="Content\SnakeStyle.css" />
-    <Content Include="Content\StilSpaceInvaders.css" />
-    <Content Include="Content\Style.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Models\UsersModel.Context.tt">
@@ -123,13 +119,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="Scripts\Bears.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="Scripts\enchant.js" />
-    <Content Include="Scripts\flap.js" />
-    <Content Include="Scripts\Hang.js" />
-    <Content Include="Scripts\InstructiuniSpaceInvaders.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
@@ -137,14 +128,7 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
-    <Content Include="Scripts\MemoryGame.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
-    <Content Include="Scripts\p5.dom.js" />
-    <Content Include="Scripts\p5.js" />
-    <Content Include="Scripts\p5.sound.js" />
-    <Content Include="Scripts\respond.js" />
-    <Content Include="Scripts\respond.min.js" />
-    <Content Include="Scripts\snake.js" />
     <Content Include="Web.config" />
     <Content Include="Views\User\Login.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
@@ -193,30 +177,6 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\User\Registration.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
-    <Content Include="Views\Home\Game.cshtml" />
-    <Content Include="Views\Home\Easy.cshtml" />
-    <Content Include="Views\Home\Medium.cshtml" />
-    <Content Include="Views\Home\Hard.cshtml" />
-    <Content Include="Views\Home\SpaceInvaders.cshtml" />
-    <Content Include="Views\Home\SpaceEasy.cshtml" />
-    <Content Include="Views\Home\SpaceMedium.cshtml" />
-    <Content Include="Views\Home\SpaceHard.cshtml" />
-    <Content Include="Views\Home\MemoryGame.cshtml" />
-    <Content Include="Views\Home\Bears.cshtml" />
-    <Content Include="Views\Home\CustomSpaceEasy.cshtml" />
-    <Content Include="Views\Home\CustomSpaceMedium.cshtml" />
-    <Content Include="Views\Home\CustomSpaceHard.cshtml" />
-    <Content Include="Views\Home\SpaceEasy1.cshtml" />
-    <Content Include="Views\Home\SpaceEasy2.cshtml" />
-    <Content Include="Views\Home\SpaceMedium1.cshtml" />
-    <Content Include="Views\Home\SpaceMedium2.cshtml" />
-    <Content Include="Views\Home\SpaceHard1.cshtml" />
-    <Content Include="Views\Home\SpaceHard2.cshtml" />
-    <Content Include="Views\Home\Action.cshtml" />
-    <Content Include="Views\Home\MemStra.cshtml" />
-    <Content Include="Views\Home\Arcade.cshtml" />
-    <Content Include="Views\Home\Snake.cshtml" />
-    <Content Include="Views\Home\Flappy.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
