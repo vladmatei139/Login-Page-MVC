@@ -217,6 +217,7 @@
     <Content Include="Views\Home\Arcade.cshtml" />
     <Content Include="Views\Home\Snake.cshtml" />
     <Content Include="Views\Home\Flappy.cshtml" />
+    <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
