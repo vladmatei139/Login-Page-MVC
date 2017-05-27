@@ -1,7 +1,7 @@
 ﻿
 @if (Request.IsAuthenticated)
-{       
-    using (Html.BeginForm("LogOut", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+{
+    using (Html.BeginForm("Logout", "User", FormMethod.Post, new { id = "logoutForm" }))
     {
         @Html.AntiForgeryToken()
 
@@ -17,7 +17,7 @@
                 </div>
             </li>
             <li>
-                @Html.ActionLink("Logout", "Logout", "User")
+                <a href="javascript:document.getElementById('logoutForm').submit()">Logout</a>
             </li>
         </ul>
     }     
